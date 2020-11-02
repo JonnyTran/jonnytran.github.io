@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I'm Nhat Tran, and I also go by Jonny."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi there, I'm Nhat Tran, and I also go by Jonny.
+=====
 I'm a PhD student at the University of Texas at Arlington with a background in computer science. 
 My research focuses on the area of bioinformatics with techniques centered around machine learning and data integration. 
 More specifically, I research new computational methods for mining multi-omics interactions that aids in understanding of human diseases. 
