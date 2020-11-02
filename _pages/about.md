@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Hi there, I'm Nhat Tran, and I also go by Jonny.
+## Hi there, I'm Nhat Tran, and I also go by Jonny.
 
 I'm a PhD student at the University of Texas at Arlington with a background in computer science. 
 My research focuses on the area of bioinformatics with techniques centered around machine learning and data integration. 
