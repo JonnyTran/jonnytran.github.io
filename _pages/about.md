@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonny Tran"
+title: "Hi there, I'm Jonny Tran."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
