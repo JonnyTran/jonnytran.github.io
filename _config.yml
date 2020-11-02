@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jonny Tran"
   avatar           : "profile.png"
-  bio              : "PhD student at the UT Arlington"
-  location         : "Arlington, Texas"
+  bio              : "PhD Candidate at the University of Texas at Arlington."
+  location         : "Arlington, TX"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=i6Dk954AAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/nhatctran/"
+  linkedin         : "in/nhatctran/"
   orcid            : "https://orcid.org/0000-0002-2575-9633"
   pinterest        :
   soundcloud       :
