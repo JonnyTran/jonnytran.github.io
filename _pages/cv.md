@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of Texas at Arlington, 2015
-* Ph.D in Computer Science, University of Texas at Arlington, August 2021 (expected)
+* Ph.D in Computer Science, University of Texas at Arlington, Dec 2023
 
 
 Publications
@@ -24,4 +24,5 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PyOpenSci reviewer
+* 
