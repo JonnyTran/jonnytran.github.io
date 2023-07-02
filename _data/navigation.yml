@@ -1,4 +1,5 @@
 # main links links
+# Import site url from _config.yml
 main:
   - title: "Research"
     url: /publications/
