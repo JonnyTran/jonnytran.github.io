@@ -14,9 +14,9 @@
 			"density": 1
 		},
 		{
-			"src": "\/images\/favicon.png",
+			"src": "\/images\/favicon.ico",
 			"sizes": "48x48",
-			"type": "image\/png",
+			"type": "image\/ico",
 			"density": 1.5
 		}
 	]

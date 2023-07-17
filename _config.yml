@@ -224,8 +224,10 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      read_time: true
+      author_profile: false
       share: true
+      related: true
       comments: true
   # _software
   - scope:
@@ -233,9 +235,10 @@ defaults:
       type: software
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      read_time: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -260,17 +263,17 @@ timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate 
   # - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   # - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
+  - jekyll-feed
   - jemoji
 
 

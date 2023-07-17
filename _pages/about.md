@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nhat Tran, and I also go by Jonny.
+### My name is Nhat Tran, and I also go by Jonny.
 
 I'm a recent CS Ph.D. graduate from the University of Texas at Arlington with a background in machine learning and bioinformatics. 
 
