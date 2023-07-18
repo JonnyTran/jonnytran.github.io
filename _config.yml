@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jonny Tran"
 title_separator          : "-"
-masthead_title           : ""
+masthead_title           : "Jonny Tran"
 logo                     : "images/site-logo.png"
 name                     : &name "Nhat (Jonny) Tran"
 description              : &description "Jonny Tran's Personal website"
@@ -193,14 +193,14 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _blog
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
       share: true
       related: true
@@ -226,7 +226,7 @@ defaults:
       type: publications
     values:
       layout: single
-      read_time: true
+      read_time: false
       author_profile: false
       share: true
       related: true
@@ -237,7 +237,7 @@ defaults:
       type: software
     values:
       layout: single
-      read_time: true
+      read_time: false
       author_profile: false
       share: false
       comment: false
