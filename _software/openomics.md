@@ -5,7 +5,7 @@ header:
 excerpt: "OpenOmics provides a bioinformatics API and web-app platform integrate and visualize the multiomics and clinical data."
 collection: software
 ---
-<img src="/images/OpenOmics_Architecture.png"  width="70%">
+<img src="/images/OpenOmics_Architecture.png"  width="100%">
 
 An open-source framework for bioinformatics researchers to facilitate data preparation tasks by
 
