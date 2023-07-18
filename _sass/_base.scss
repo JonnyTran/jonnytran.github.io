@@ -110,11 +110,11 @@ blockquote {
 }
 
 /* links */
-// Text on links to remove underline
 a {
   color: #696969;
   text-decoration: none;
   font-weight: 600;
+  
   &:focus {
     @extend %tab-focus;
   }

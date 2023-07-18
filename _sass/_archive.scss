@@ -15,10 +15,12 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      // font-weight: 600;
+      // TODO: Add hover effect to links here
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -80,7 +82,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
