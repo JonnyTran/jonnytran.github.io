@@ -14,7 +14,7 @@ I'm a recent CS Ph.D. graduate from the University of Texas at Arlington with a 
 My research focuses on the area of bioinformatics with techniques centered around graph neural networks and multimodal data integration. More specifically, I research new computational methods for combining sequence representation and heterogeneous network interactions among RNAs sequences to aid in the understanding of non-coding RNA functions. 
 My goal is to develop new models, techniques, and tools (see [OpenOmics](https://github.com/JonnyTran/OpenOmics){:target="_blank"}) that will enable researchers to unleash the untapped potential of these rich, complex datasets.
 
-In my off time, I also research about espresso coffee science. I use machine learning techniques extensively - feel free to check out some of my works!
+In my off time, I also research about [espresso coffee science](https://espresso-map.jonny.bio). I use machine learning techniques extensively - feel free to check out some of my works!
 
 ## Research interests
 - Graph neural networks (Heterogeneous graph, Graph representation learning)
