@@ -11,8 +11,8 @@ redirect_from:
 
 I'm a recent CS Ph.D. graduate from the University of Texas at Arlington with a background in machine learning and bioinformatics. 
 
-My research focuses on the area of bioinformatics with techniques centered around graph neural networks and multimodal data integration. More specifically, I research new computational methods for combining sequence representation and heterogeneous network interactions among RNAs sequences to aid in the understanding of non-coding RNA functions. 
-My goal is to develop new models, techniques, and tools (see [OpenOmics](https://github.com/JonnyTran/OpenOmics){:target="_blank"}) that will enable researchers to unleash the untapped potential of these rich, complex datasets.
+My research focuses on the area of bioinformatics with techniques centered around graph neural networks and multimodal data integration. More specifically, I research new computational methods for combining sequence representation and heterogeneous network interactions among RNA sequences to aid in the understanding of non-coding RNA functions. 
+My goal is to develop new models, techniques, and open-source tools (see [OpenOmics](https://github.com/JonnyTran/OpenOmics){:target="_blank"}) that will enable researchers to unleash the untapped potential of these rich, complex datasets.
 
 I was previously at Genentech, working on large-scale data pipelines and machine learning models to establish QC standards for detecting low-quality sequencing parameters in NGS genomics. Before focusing on on machine learning and data science, I trained as a full-stack software developer through various internships and hackathons teams to start a career in developing web and mobile applications in the DevOps space.
 
@@ -22,7 +22,9 @@ In my off time, I also research about [espresso coffee science](https://espresso
 - Graph neural networks (Heterogeneous graph, Graph representation learning)
 - Natural language processing (Text classification, Text generation)
 - Machine learning (Deep learning, Transfer learning, Multimodal learning)
-- Bioinformatics (RNA, Non-coding RNA, RNA-protein interaction, RNA structure)
+- Bioinformatics (Non-coding RNA, RNA-protein interaction, RNA structure)
+- Data science (Data engineering, Data visualization, Data integration)
+- Software development (Full-stack web development, Mobile development, DevOps)
 
 ## Recent news
 - Feb 2023: A new work titled "Protein function prediction by incorporating knowledge graph representation of heterogeneous interactions and gene ontology" has been submitted!
