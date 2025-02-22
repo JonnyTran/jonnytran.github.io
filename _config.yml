@@ -13,8 +13,8 @@ masthead_title           : "Jonny Tran"
 logo                     : "images/site-logo.png"
 name                     : &name "Nhat (Jonny) Tran"
 description              : &description "Jonny Tran's Personal website"
-url                      : https://jonnytran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://jonny.bio
+baseurl                  : ""
 repository               : "jonnytran/jonnytran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -85,7 +85,7 @@ author:
   name             : "Nhat (Jonny) Tran"
   avatar           : "profile.png"
   bio              : "CS PhD from the University of Texas at Arlington."
-  location         : "Arlington, TX"
+  location         : "Seattle, WA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=i6Dk954AAAAJ&hl=en"
