@@ -28,8 +28,9 @@ In my off time, I also research about [espresso coffee science](https://espresso
 
 ## Recent news
 - Jan 2024: [LATTE2GO](/files/paper_latte2go.pdf) has been accepted to BIBM'23!
+- Sep 2023: I joined the Gates Foundation as a Research Scientist in the Institute of Disease Modeling's malaria team!
 - Feb 2023: A new work titled "[Protein function prediction by incorporating knowledge graph representation of heterogeneous interactions and gene ontology](https://ieeexplore.ieee.org/abstract/document/10385281)" has been submitted!
-- Dec 2022: I successfully defended my [Ph.D. dissertation](http://jonnytran.github.io/files/dissertation.pdf){:target="_blank"}!
+- Dec 2022: I successfully defended my [Ph.D. dissertation](/files/dissertation.pdf){:target="_blank"}!
 - Aug 2021: I joined Genentech as a Data Scientist intern in the Oncology Bioinformatics group!
 - May 2021: [“OpenOmics: A bioinformatics API to integrate multi-omics datasets and interface with public databases"](https://joss.theoj.org/papers/10.21105/joss.03249.pdf){:target="_blank"} is now published in the Journal of Open Source Software!
 - Sep 2020: A new preprint entitled ["Layer-stacked Attention for Heterogeneous Network Embedding"](https://arxiv.org/pdf/2009.08072){:target="_blank"} is now on arXiv!
