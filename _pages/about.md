@@ -9,14 +9,15 @@ redirect_from:
 ---
 ## My name is Nhat Tran, and I also go by Jonny.
 
-I'm a recent CS Ph.D. graduate from the University of Texas at Arlington with a background in machine learning and bioinformatics. 
+I'm a CS Ph.D. graduate from the University of Texas at Arlington with a background in machine learning and bioinformatics. I'm currently leading [Extralit](https://github.com/extralit/extralit), an open-source platform that transforms how researchers extract structured data from scientific literature using AI and human validation workflows.
 
-My research focuses on the area of bioinformatics with techniques centered around graph neural networks and multimodal data integration. More specifically, I research new computational methods for combining sequence representation and heterogeneous network interactions among RNA sequences to aid in the understanding of non-coding RNA functions. 
-My goal is to develop new models, techniques, and open-source tools (see [OpenOmics](https://github.com/JonnyTran/OpenOmics){:target="_blank"}) that will enable researchers to unleash the untapped potential of these rich, complex datasets.
+My research background focuses on bioinformatics with techniques centered around graph neural networks and multimodal data integration. I developed computational methods for combining sequence representation and heterogeneous network interactions among RNA sequences to aid in understanding non-coding RNA functions. This work led to open-source tools like [OpenOmics](https://github.com/JonnyTran/OpenOmics){:target="_blank"} that enable researchers to unleash the untapped potential of these rich, complex datasets.
 
-I was previously at Genentech, working on large-scale data pipelines and machine learning models to establish QC standards for detecting low-quality sequencing parameters in NGS genomics. Before focusing on on machine learning and data science, I trained as a full-stack software developer through various internships and hackathons teams to start a career in developing web and mobile applications in the DevOps space.
+Previously, as a Research Scientist at the Gates Foundation, I experienced firsthand the challenges research organizations face in extracting structured data from scientific literature. This inspired me to develop Extralit, which dramatically accelerates the process of turning unstructured research papers into analysis-ready datasets. Before that, at Genentech, I worked on large-scale data pipelines and machine learning models to establish QC standards for detecting low-quality sequencing parameters in NGS genomics.
 
-In my off time, I also research about [espresso coffee science](https://espresso-map.jonny.bio){:target="_blank"}. I use machine learning and software development extensively - feel free to check out some of my works!
+My technical expertise spans developing and deploying optimized machine learning models on GPU-accelerated infrastructure, tailoring graph and NLP algorithms for complex bioinformatics challenges, and transforming unstructured data into actionable insights. Before focusing on machine learning and data science, I trained as a full-stack software developer through various internships and hackathons to build web and mobile applications in the DevOps space.
+
+In my off time, I research [espresso coffee science](https://espresso-map.jonny.bio){:target="_blank"}. I use machine learning and software development extensively - feel free to check out some of my works!
 
 ## Research interests
 - Graph neural networks (Heterogeneous graph, Graph representation learning)
@@ -27,6 +28,7 @@ In my off time, I also research about [espresso coffee science](https://espresso
 - Software development (Full-stack web development, Mobile development, DevOps)
 
 ## Recent news
+- Mar 2025: [Extralit](https://github.com/extralit/extralit) has new affiliations with the Open Science Labs and is participating in the Google Summer of Code 2025 program!
 - Jan 2024: [LATTE2GO](/files/paper_latte2go.pdf) has been accepted to BIBM'23!
 - Sep 2023: I joined the Gates Foundation as a Research Scientist in the Institute of Disease Modeling's malaria team!
 - Feb 2023: A new work titled "Protein function prediction by incorporating knowledge graph representation of heterogeneous interactions and gene ontology" has been submitted!
