@@ -17,7 +17,7 @@ Previously, as a Research Scientist at the Gates Foundation, I experienced first
 
 My technical expertise spans developing and deploying optimized machine learning models on GPU-accelerated infrastructure, tailoring graph and NLP algorithms for complex bioinformatics challenges, and transforming unstructured data into actionable insights. Before focusing on machine learning and data science, I trained as a full-stack software developer through various internships and hackathons to build web and mobile applications in the DevOps space.
 
-In my off time, I research [espresso coffee science](https://espresso-map.jonny.bio){:target="_blank"}. I use machine learning and software development extensively - feel free to check out some of my works!
+In my off time, I research [espresso coffee science](https://espresso-map-2864cd239040.herokuapp.com){:target="_blank"}. I use machine learning and software development extensively - feel free to check out some of my works!
 
 ## Research interests
 - Graph neural networks (Heterogeneous graph, Graph representation learning)

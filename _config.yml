@@ -13,7 +13,7 @@ masthead_title           : "Jonny Tran"
 logo                     : "images/site-logo.png"
 name                     : &name "Nhat (Jonny) Tran"
 description              : &description "Jonny Tran's Personal website"
-url                      : https://jonny.bio
+url                      : https://jonnytran.github.io
 baseurl                  : ""
 repository               : "jonnytran/jonnytran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
